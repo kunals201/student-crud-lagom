@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello-api/hello-api.iml" filepath="$PROJECT_DIR$/hello-api/hello-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-impl/hello-impl.iml" filepath="$PROJECT_DIR$/hello-impl/hello-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-tests/integration-test.iml" filepath="$PROJECT_DIR$/integration-tests/integration-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-api/stream-api.iml" filepath="$PROJECT_DIR$/stream-api/stream-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-impl/stream-impl.iml" filepath="$PROJECT_DIR$/stream-impl/stream-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-api/student-api.iml" filepath="$PROJECT_DIR$/student-api/student-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-folio.iml" filepath="$PROJECT_DIR$/student-folio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-impl/student-impl.iml" filepath="$PROJECT_DIR$/student-impl/student-impl.iml" />
+    </modules>
+  </component>
+</project>

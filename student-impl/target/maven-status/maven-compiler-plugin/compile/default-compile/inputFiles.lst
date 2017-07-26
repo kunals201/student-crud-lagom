@@ -1,0 +1,8 @@
+/home/knoldus/learn/lagom/student-folio/student-impl/src/main/java/StudentServiceImpl.java
+/home/knoldus/learn/lagom/student-folio/student-impl/src/main/java/commands/StudentCommand.java
+/home/knoldus/learn/lagom/student-folio/student-impl/src/main/java/states/StudentStates.java
+/home/knoldus/learn/lagom/student-folio/student-impl/src/main/java/events/StudentEventTag.java
+/home/knoldus/learn/lagom/student-folio/student-impl/src/main/java/events/StudentEventProcessor.java
+/home/knoldus/learn/lagom/student-folio/student-impl/src/main/java/StudentModule.java
+/home/knoldus/learn/lagom/student-folio/student-impl/src/main/java/events/StudentEvent.java
+/home/knoldus/learn/lagom/student-folio/student-impl/src/main/java/StudentEntity.java
